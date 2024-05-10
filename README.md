@@ -57,7 +57,15 @@ plot_tree(dt,feature_names=x.columns,filled=True)
 plt.show()
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![image](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161414455/4e0cedf8-a33a-4ec7-87e9-a70482ff584a)
+![image](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161414455/fb6000fc-8936-496e-ac73-87722a460ce3)
+![image](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161414455/54a8c901-8255-4271-90df-d09787374658)
+![image](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161414455/adcd330a-c16e-4086-b3a1-7e06fda937ce)
+![image](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/161414455/3a147aca-7718-420b-82ca-af9832287934)
+
+
+
+
 
 
 ## Result:
